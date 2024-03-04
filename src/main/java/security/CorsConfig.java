@@ -1,2 +1,4 @@
-package security;public class CorsConfig {
+package security;
+
+public class CorsConfig {
 }

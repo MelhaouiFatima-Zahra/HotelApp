@@ -1,2 +1,4 @@
-package security;public class WebSecurityConfig {
+package security;
+
+public class WebSecurityConfig {
 }
